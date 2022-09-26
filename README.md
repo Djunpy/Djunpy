@@ -1,4 +1,4 @@
-## Hi there 👋, I'm a Full-Stack developer, my name is Yurii.
+## Hi there 👋,  My name is Yurii, i'm a Full-Stack developer.
 
 <br/>
 
@@ -33,12 +33,6 @@
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-
-
-
-
-
 
 
 
